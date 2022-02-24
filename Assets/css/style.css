@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    
+    font-size: 15px;
+    line-height: 1.6;
+    color: #fff;
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 250%;
+   } 
+p {
+    font-family: Verdana, Arial, Helvetica, sans-serif; 
+    }
+a {
+       align-content: center;
+    text-decoration: none;
+    color: #ee82ee;
+   }
+a:active {
+    color: #ff0fff;
+   }
+*,
+*:after,
+*:after {
+    box-sizing: border-box;
+}
