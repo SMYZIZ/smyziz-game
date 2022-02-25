@@ -10,7 +10,7 @@ h1 {
     font-size: 250%;
    } 
 p {
-    text-align: center
+    text-align: center; align-content: center
     }
 a {
        align-content: center;
